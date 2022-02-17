@@ -1,3 +1,3 @@
 # Test_git
-Test git functional 
+#Test git functional 
 Программа для тестирования функционала гитхаб
