@@ -3,7 +3,7 @@ def square_area(a):
 
 
 def square_perimeter(a):
-    return a * a
+    return 4 * a
 
 
 print(square_area(5))
